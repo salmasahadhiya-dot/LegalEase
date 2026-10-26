@@ -35,7 +35,7 @@ Create two Web Services from the same repository.
 Build: `pip install -r requirements.txt`
 Start: `uvicorn backend.main:app --host 0.0.0.0 --port $PORT`
 Environment variables: `GEMINI_API_KEY` = your key; `GEMINI_MODEL` = `gemini-2.5-flash` (use a model available to your key if needed).
-Check Render Logs for failures. Never share your API key. AI-generated legal drafts must be reviewed by a qualified lawyer. ⚖️ LegalEase ✨ AI-Powered Legal Document Generator 📄 Create Legal Documents Easily with AI! Generate your legal document drafts quickly and conveniently with LegalEase. 🔗 Try LegalEase Now! 👇 🚀 Open LegalEase app: https://legalease-4rnr.onrender.com ⚖️ LegalEase — Simplifying Legal Documentation with Ai
+Check Render Logs for failures. Never share your API key. AI-generated legal drafts must be reviewed by a qualified lawyer. ⚖️ LegalEase ✨ AI-Powered Legal Document Generator 📄 Create Legal Documents Easily with AI! Generate your legal document drafts quickly and conveniently with LegalEase. 🔗 Try LegalEase Now! 👇 🚀 Open LegalEase app: https://legalease-ugfh.onrender.com ⚖️ LegalEase — Simplifying Legal Documentation with Ai
 ### Frontend
 Build: `pip install -r requirements.txt`
 Start: `streamlit run app.py --server.address 0.0.0.0 --server.port $PORT`
